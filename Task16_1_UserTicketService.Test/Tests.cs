@@ -2,7 +2,7 @@
 {
     using NUnit.Framework;
     using Task16_1_UserTicketService.Classes;
-    public class Tests
+    public class TestsNunit
     {
         [SetUp]
         public void Setup()

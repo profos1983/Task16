@@ -20,5 +20,10 @@ namespace Task16_1_UserTicketService.Classes
         {
             return a / b;
         }
+
+        public int Add(int one, int two)
+        {
+            return one + two;
+        }
     }
 }
