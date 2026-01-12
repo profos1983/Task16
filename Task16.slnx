@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Task16_1_UserTicketService.Test/Task16_1_UserTicketService.Tests.csproj" Id="caa2053d-ef26-4c02-a279-8be3de9a7e89" />
+  <Project Path="Task16_1_UserTicketService.TestsX/Task16_1_UserTicketService.TestsX.csproj" Id="d63ba7a4-863b-406e-afee-baaf4bba886a" />
+  <Project Path="Task16_1_UserTicketService/Task16_1_UserTicketService.csproj" />
+</Solution>
