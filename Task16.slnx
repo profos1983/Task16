@@ -4,4 +4,9 @@
     <Project Path="Task16_1_UserTicketService.TestsX/Task16_1_UserTicketService.TestsX.csproj" Id="d63ba7a4-863b-406e-afee-baaf4bba886a" />
     <Project Path="Task16_1_UserTicketService/Task16_1_UserTicketService.csproj" />
   </Folder>
+  <Folder Name="/Task16_3_1/">
+    <Project Path="Task16_3_1.Tests(NUnit)/Task16_3_1.Tests(NUnit).csproj" Id="e30e6b16-15ea-4b6a-852f-41324686d67f" />
+    <Project Path="Task16_3_1/Task16_3_1.csproj" Id="0ed475f5-09da-4bdf-a3a2-c7c690bae130" />
+  </Folder>
+  <Folder Name="/Task16_3_2/" />
 </Solution>
